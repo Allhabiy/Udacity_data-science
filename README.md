@@ -13,7 +13,9 @@ it's normal installtion for the libraries
 i used Python versions 3. and i install addtional libraries using !pip3 (it's in the code)
 # Project Motivation
 this code explore the airbnb servies in NYC  
+
 What are the most neighbourhood in NYC people stay in?
+
 Where people chosse the room type?
 How much people spend for the rent?
 
@@ -26,5 +28,8 @@ DataSet: AB_NYC.csv
 # Results
 inside the ccode 
 
-# Licensing and Acknowledgements
+# Acknowledgements
 Thanks everyone
+
+# Licensing
+MIT License 
