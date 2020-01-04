@@ -38,6 +38,9 @@ DataSet: AB_NYC.csv
 # Results
 inside the ccode 
 
+and for the blog http://allhabiy.simplesite.com/
+
+
 # Acknowledgements
 Thanks everyone
 
